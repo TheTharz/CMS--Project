@@ -1,16 +1,47 @@
-# cms
+# Canteen Management System
 
-A new Flutter project.
+This Flutter project is a Canteen Management System designed to streamline the process of managing coupons for breakfast, lunch, and tea. The system is developed in collaboration with Krishanvenura as a collaborator and is licensed under the Apache License, Version 2.0.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Coupon Management**: Efficiently manage coupons for breakfast, lunch, and tea.
+- **Stylish Design**: User-friendly interface with an appealing design.
+- **Collaboration**: Developed with Krishanvenura as a collaborator.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+# Clone the repository
+git clone https://github.com/your-username/canteen_management_system.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Navigate to the project directory
+cd canteen_management_system
+
+# Install dependencies
+flutter pub get
+```
+## Usage
+```bash
+# Run the project
+flutter run
+```
+- Launch the application on your Flutter-compatible device or emulator.
+- Navigate through the different sections to manage coupons for breakfast, lunch, and tea.
+- Enjoy the user-friendly interface and efficient coupon management features.
+
+## License
+This project is licensed under the Apache License, Version 2.0. See the LICENSE file for details.
+
+## Contributors
+- Thairndu Jayawardhana
+- Krishan Venura
+
+## Contact
+For any inquiries or issues regarding the project, feel free to contact us:
+
+Tharindu Jayawardhana: tharinduimalkajayawardhana@gmail.com
+Krishanvenura: dmkrishanwenura@gmail.com
+
+## Acknowledgements
+We would like to thank Flutter and the open-source community for their valuable contributions and support.
+
